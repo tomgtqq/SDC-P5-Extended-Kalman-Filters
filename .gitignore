@@ -36,3 +36,4 @@ CMakeFiles
 ExtendedKF.build
 Debug
 cmake_install.cmake
+CMakeScripts/ReRunCMake.make
